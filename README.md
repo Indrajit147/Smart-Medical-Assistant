@@ -73,3 +73,6 @@
 - Database queries are basic - enhance with more sophisticated SQL generation
 - Add error handling and validation as needed
 - Consider adding user authentication for production use
+
+<img width="1339" height="881" alt="image" src="https://github.com/user-attachments/assets/11fd4227-3187-41cb-850c-7d6d206364ca" />
+
